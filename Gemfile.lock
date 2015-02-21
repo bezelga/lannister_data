@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    lannister_data (0.0.1)
+    lannister_data (0.0.1.alpha)
       rails (~> 4.2.0)
 
 GEM
